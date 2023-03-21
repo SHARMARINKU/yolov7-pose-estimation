@@ -1,4 +1,12 @@
-# yolov7-pose-estimation
+"""
+Yolo v7-Pose-Estimation
+
+
+Author: Rinku Sharma
+E-mail: rinkusharma1466@gmail.com
+
+This file handles and detect the human key point which is (x,y,keypoint) it will return 51 values.
+"""
 
 ```
 cd yolov7-pose-estimation
